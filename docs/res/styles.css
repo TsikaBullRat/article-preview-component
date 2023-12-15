@@ -1,0 +1,26 @@
+/* Tags */
+body{
+    font-family: 'Manrope', sans-serif;
+    background-color: hsl(210, 46%, 95%);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+main{
+    background-color: #fff;
+    width: 60%;
+    height: 45%;
+    display: flex;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+/* Classes */
+.main-box{
+    width: 50%;
+    height: 100%;
+    padding: 0 30px;
+}
